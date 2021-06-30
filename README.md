@@ -1,5 +1,24 @@
 # Digital-Thermometer
-Digital Thermometer Project Based on Arduino &amp; TMP36 Temperature Sensor
+Digital Thermometer Project Based on Arduino &amp; TMP36 Temperature SensorFi
+Final Year Project (based on Electronics )
+
+DESCRIPTION
+
+I have worked with my team and made a Digital Thermometer project that controls and manages the temperature using sensor.
+
+In this project we have made an Arduino based digital thermometer to display the
+
+current ambient temperature on a 16x2 LCD unit in real time . It can be deployed
+
+in houses, offices, industries etc. to measure the temperature. We can divide this
+
+Arduino based thermometer into three sections - The first section senses the
+
+temperature by using temperature sensor TMP36, second section converts the
+
+temperature value into a suitable number in Celsius scale which is done by
+
+Arduino, and the last part of the system displays temperature on LCD Display.
 #include <LiquidCrystal.h>
 
 int InputPin=A5;
