@@ -1,7 +1,7 @@
 # Digital-Thermometer
 Digital Thermometer Project Based on Arduino &amp; TMP36 Temperature SensorFi
 Final Year Project (based on Electronics )
-
+<br>
 DESCRIPTION
 
 I have worked with my team and made a Digital Thermometer project that controls and manages the temperature using sensor.
